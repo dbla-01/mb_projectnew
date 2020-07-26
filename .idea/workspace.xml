@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="760f3c2c-9bdc-49be-8c77-b0d04850792f" name="Default Changelist" comment="" />
+    <list default="true" id="760f3c2c-9bdc-49be-8c77-b0d04850792f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/posts/tests.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1fDoaIbC7gS8AdbFgbF0ThRiziI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -77,13 +84,31 @@
       <workItem from="1595762252567" duration="1732000" />
       <workItem from="1595782361952" duration="1207000" />
       <workItem from="1595783644629" duration="247000" />
+      <workItem from="1595783913036" duration="552000" />
+      <workItem from="1595790241347" duration="577000" />
     </task>
+    <task id="LOCAL-00001" summary="Master - Chapter 4">
+      <created>1595783990889</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595783990889</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Master - Chapter 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Master - Chapter 4" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="306" y="36" key="CommitChangelistDialog2" timestamp="1595783990553">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="306" y="36" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1595783990553" />
     <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1595783641194">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
@@ -120,9 +145,9 @@
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="221" y="72" key="SettingsEditor/0.23.1440.822@0.23.1440.822" timestamp="1595783837059" />
-    <state x="385" y="169" width="670" height="676" key="search.everywhere.popup" timestamp="1595783889103">
+    <state x="385" y="169" width="670" height="676" key="search.everywhere.popup" timestamp="1595783952413">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state x="385" y="169" width="670" height="676" key="search.everywhere.popup/0.23.1440.822@0.23.1440.822" timestamp="1595783889103" />
+    <state x="385" y="169" width="670" height="676" key="search.everywhere.popup/0.23.1440.822@0.23.1440.822" timestamp="1595783952413" />
   </component>
 </project>
