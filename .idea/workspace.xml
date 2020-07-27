@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="760f3c2c-9bdc-49be-8c77-b0d04850792f" name="Default Changelist" comment="">
+    <list default="true" id="760f3c2c-9bdc-49be-8c77-b0d04850792f" name="Default Changelist" comment="Installed gunicorn">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +88,7 @@
       <workItem from="1595783644629" duration="247000" />
       <workItem from="1595783913036" duration="552000" />
       <workItem from="1595790241347" duration="2047000" />
-      <workItem from="1595853580098" duration="302000" />
+      <workItem from="1595853580098" duration="1283000" />
     </task>
     <task id="LOCAL-00001" summary="Master - Chapter 4">
       <created>1595783990889</created>
@@ -124,6 +124,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Master - Chapter 4" />
@@ -133,9 +144,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Installed gunicorn" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="306" y="33" key="CommitChangelistDialog2" timestamp="1595791981920">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state x="306" y="32" key="CommitChangelistDialog2" timestamp="1595854321728">
+      <screen x="0" y="23" width="1440" height="821" />
     </state>
+    <state x="306" y="32" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1595854321728" />
     <state x="306" y="33" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1595791981920" />
     <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1595792297019">
       <screen x="0" y="23" width="1440" height="822" />
@@ -173,9 +185,14 @@
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="221" y="72" key="SettingsEditor/0.23.1440.822@0.23.1440.822" timestamp="1595783837059" />
-    <state x="385" y="169" width="670" height="676" key="search.everywhere.popup" timestamp="1595783952413">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state x="320" y="173" key="Vcs.Push.Dialog.v2" timestamp="1595854774373">
+      <screen x="0" y="23" width="1440" height="821" />
     </state>
+    <state x="320" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1595854774373" />
+    <state x="385" y="169" width="670" height="676" key="search.everywhere.popup" timestamp="1595854361262">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="385" y="169" width="670" height="676" key="search.everywhere.popup/0.23.1440.821@0.23.1440.821" timestamp="1595854361262" />
     <state x="385" y="169" width="670" height="676" key="search.everywhere.popup/0.23.1440.822@0.23.1440.822" timestamp="1595783952413" />
   </component>
 </project>
