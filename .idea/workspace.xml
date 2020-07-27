@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="760f3c2c-9bdc-49be-8c77-b0d04850792f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +87,8 @@
       <workItem from="1595782361952" duration="1207000" />
       <workItem from="1595783644629" duration="247000" />
       <workItem from="1595783913036" duration="552000" />
-      <workItem from="1595790241347" duration="1655000" />
+      <workItem from="1595790241347" duration="2047000" />
+      <workItem from="1595853580098" duration="302000" />
     </task>
     <task id="LOCAL-00001" summary="Master - Chapter 4">
       <created>1595783990889</created>
@@ -111,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595791268018</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Installed gunicorn">
+      <created>1595791982115</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595791982115</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,29 +129,30 @@
     <MESSAGE value="Master - Chapter 4" />
     <MESSAGE value="After testing" />
     <MESSAGE value="After Heroku" />
-    <option name="LAST_COMMIT_MESSAGE" value="After Heroku" />
+    <MESSAGE value="Installed gunicorn" />
+    <option name="LAST_COMMIT_MESSAGE" value="Installed gunicorn" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="306" y="33" key="CommitChangelistDialog2" timestamp="1595791267839">
+    <state x="306" y="33" key="CommitChangelistDialog2" timestamp="1595791981920">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state x="306" y="33" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1595791267839" />
-    <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1595783641194">
+    <state x="306" y="33" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1595791981920" />
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1595792297019">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1595783641194" />
-    <state width="1398" height="212" key="GridCell.Tab.0.center" timestamp="1595783641193">
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1595792297019" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center" timestamp="1595792297018">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1595783641193" />
-    <state width="1398" height="212" key="GridCell.Tab.0.left" timestamp="1595783641193">
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1595792297018" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left" timestamp="1595792297018">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1595783641193" />
-    <state width="1398" height="212" key="GridCell.Tab.0.right" timestamp="1595783641194">
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1595792297018" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right" timestamp="1595792297019">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1595783641194" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1595792297019" />
     <state width="1398" height="263" key="GridCell.Tab.1.bottom" timestamp="1595783558206">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
